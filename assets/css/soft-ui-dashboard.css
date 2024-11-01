@@ -23134,10 +23134,12 @@ label,
 }
 
 .icon-shape i {
-  color: #fff;
+  /* color: #fff; */
   opacity: 0.8;
-  top: 11px;
+  top: 6px;
   position: relative;
+  font-size: 1.5rem;
+
 }
 
 .icon-shape .ni {

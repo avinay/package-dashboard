@@ -42,5 +42,5 @@
     "gulp-open": "3.0.1",
     "sass": "1.80.2"
   },
-  "homepage": "http://creative-tim.com/product/soft-ui-dashboard"
+  "homepage": "http://127.0.0.1:5500/pages/"
 }
